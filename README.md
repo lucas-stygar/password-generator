@@ -1,5 +1,5 @@
-Este é o primeiro projeto que desenvolvi, utilizando HTML, CSS, JavaScript e a biblioteca NanoID, com o foco em colocar em prática o que estava aprendendo. É um projeto básico e bem simples.
+This is the first project I developed using HTML, CSS, JavaScript, and the NanoID library, with the goal of applying what I was learning. It’s a simple and basic project.
 
-Pronto para aumentar sua segurança online? Clique no link abaixo para começar a usar o Gerador de Senhas Seguras e criar sua primeira senha segura hoje mesmo!
+Ready to enhance your online security? Click the link below to start using the Secure Password Generator and create your first strong password today!
 
-[🔐 Gerador de Senhas Seguras!](https://lucas-stygar-senhas-seguras.surge.sh/)
+[🔐 Secure Password Generator!](https://lucas-stygar-senhas-seguras.surge.sh/)
